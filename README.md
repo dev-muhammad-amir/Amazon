@@ -54,7 +54,7 @@ Basic responsiveness is added for key sections. Further improvements (like full 
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by [Muhammad Amir]  
 Connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-amir-1569b631a/)) | [Portfolio](https://developeramir.netlify.app/) | [Email](amirirfan4599@gmail.com)
 
 ---
